@@ -12,7 +12,7 @@ h1 {
 
 .main-container {
     display: flex;
-
+    padding: 30px;
 }
 
 .flex-container {
@@ -25,10 +25,19 @@ h1 {
     margin-top: 25px;
 }
 
+.second-img {
+    padding-right: 20%;
+}
+
 .anchor-button {
     text-decoration: none;
     color: white;
     padding: 10px 20px;
     background: linear-gradient(orange, tomato);
     border-radius: 5px;
+}
+
+.dream-big {
+    padding-top: 10%;
+    padding-right: 50px;
 }
